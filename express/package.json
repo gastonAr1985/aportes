@@ -1,0 +1,14 @@
+{
+    "name": "ExpressPOC",
+    "version": "0.1.0",
+    "description": "Proof of concept",
+    "author": "Lemon",
+    "license": "MIT",
+    "scripts": {
+        "start": "node ./src/index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {}
+}
